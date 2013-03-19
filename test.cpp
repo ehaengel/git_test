@@ -7,6 +7,7 @@ int main(int argc, char** argv) {
 		return 1;
 	}
 
+	//A random comment
 	printf("Input: ");
 	for(int i=1; i<argc; i++)
 		printf("%s ", argv[i]);
